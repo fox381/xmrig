@@ -3,5 +3,5 @@ setlocal
 
 call 2.bat
 echo %ERRORLEVEL%
-SET Hello=ok
+echo Hello=ok
 echo %ERRORLEVEL%
