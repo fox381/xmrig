@@ -2,6 +2,6 @@
 setlocal
 
 call 2.bat
-echo %%ERRORLEVEL%%
+echo %ERRORLEVEL%
 SET a=5
-echo %%ERRORLEVEL%%
+echo %ERRORLEVEL%
