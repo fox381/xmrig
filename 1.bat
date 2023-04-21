@@ -3,5 +3,5 @@ setlocal
 
 call 2.bat
 echo %ERRORLEVEL%
-rem SET BUILD_STATUS=ok
+SET Hello=ok
 echo %ERRORLEVEL%
