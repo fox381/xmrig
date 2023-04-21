@@ -1,5 +1,5 @@
 @echo off
 setlocal
-call 2.bat
+call TT.bat
 echo ERRORLEVEL %ERRORLEVEL%
 pause
