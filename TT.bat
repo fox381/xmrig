@@ -1,6 +1,6 @@
-
-echo hello from 2.bat
-SET ERRORLEVEL 0
+rem setlocal
+echo hello from TT.bat
+Sfadfasf
 IF ERRORLEVEL 1 goto error_compile
 goto :end
 
@@ -11,8 +11,8 @@ goto :end
 @goto end_error
 
 :end_error
-ENDLOCAL
+rem ENDLOCAL
 EXIT /B 1
 
 :end
-ENDLOCAL
+rem ENDLOCAL

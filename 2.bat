@@ -1,3 +1,4 @@
-
-echo hello from 2.bat
-EXIT /B 0
+@echo off
+setlocal
+echo hello 
+EXIT /B 1
