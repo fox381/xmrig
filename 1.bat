@@ -1,5 +1,5 @@
 @echo off
-setlocal
+rem setlocal
 
 call 2.bat
 echo %ERRORLEVEL%

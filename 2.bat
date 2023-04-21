@@ -1,4 +1,4 @@
 @echo off
-setlocal
+rem setlocal
 echo hello 
 EXIT /B 1
