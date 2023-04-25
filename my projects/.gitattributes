@@ -1,0 +1,10 @@
+*.cs      text eol=crlf
+*.css     text eol=crlf
+*.glsl    text eol=crlf
+*.gui     text eol=crlf
+*.hlsl    text eol=crlf
+*.rc      text eol=crlf
+*.torsion text eol=crlf
+*.xml     text eol=crlf
+*.conf    text eol=lf
+*.cmake   text eol=lf
