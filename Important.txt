@@ -1,0 +1,6 @@
+Important Message to Customers applying updated MSFT Drivers:
+ 
+As part of 7.12 and Phase 13 as well as future releases, the MegaRAID (MegaSas35.sys) and HBA (ItSas35.sys) drivers for Windows 10 and Windows Server have activated Microsoft security fixes. 
+Users deploying these drivers need to have reviewed KB4482887 before driver upgrade/installation.
+If driver upgrade/installation is performed without correct OS patch level, system crash may be experienced.
+Once you have verified your OS is properly updated, the password for the MR_Win_Drv_7.12-7.712.09.00-WHQL.zip file is: “I have read and understand the attached txt file.”
